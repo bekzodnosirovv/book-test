@@ -1,0 +1,30 @@
+server:
+  port: 8081
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+springdoc:
+  packagesToScan: book.store
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/bookStoreUsers
+    username: userjon
+    password: 12345
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+
+  output:
+    ansi:
+      enabled: always
+
+management:
+  tracing:
+    sampling:
+      probability: 1.0
+

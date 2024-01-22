@@ -1,0 +1,95 @@
+POST http://localhost:8080/api/v1/user/registartion
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=ED6ED19B7576F93FB84519416B024B25
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "bekzod",
+  "login": "123456",
+  "password": "123456"
+}
+
+###
+
+POST http://localhost:8080/api/v1/user/registartion
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=ED6ED19B7576F93FB84519416B024B25
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "bekzod",
+  "login": "123456",
+  "password": "123456"
+}
+
+###
+
+POST http://localhost:8080/api/v1/user/registartion
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=ED6ED19B7576F93FB84519416B024B25
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "bekzod",
+  "login": "123456",
+  "password": "123456"
+}
+
+###
+
+POST http://localhost:8080/api/v1/user/registartion
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=ED6ED19B7576F93FB84519416B024B25
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "bekzod",
+  "login": "123456",
+  "password": "123456"
+}
+
+###
+
+POST http://localhost:8080/api/v1/user/registartion
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=9BDD785B20A184C9120CBBA2E24D2252
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "bekzod",
+  "login": "123456",
+  "password": "123456"
+}
+
+###
+
+POST http://localhost:8080/api/v1/user/registartion
+Content-Type: application/json
+Content-Length: 67
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "bekzod",
+  "login": "123456",
+  "password": "123456"
+}
+
+###
+
